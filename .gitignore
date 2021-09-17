@@ -1,0 +1,5 @@
+*.pdf
+*.pyc
+*.txt
+venv
+misc/output.dat

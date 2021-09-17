@@ -1,0 +1,14 @@
+{
+    "python.formatting.provider": "autopep8",
+    "python.autoComplete.extraPaths": [
+        "~/google-cloud-sdk/platform/google_appengine/lib/webapp2-2.5.2",
+        "~/google-cloud-sdk/platform/google_appengine",
+        "~/google-cloud-sdk/lib",
+        "~/google-cloud-sdk/platform/google_appengine/lib/endpoints-1.0",
+        "~/google-cloud-sdk/platform/google_appengine/lib/protorpc-1.0"
+    ],
+    "python.linting.pylintArgs": [
+        "--disable=E401"
+    ],
+    "python.pythonPath": "venv/bin/python3"
+}
